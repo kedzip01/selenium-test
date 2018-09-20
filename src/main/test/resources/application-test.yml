@@ -1,0 +1,10 @@
+login:
+    email: email@soemting.com
+    password: pwd
+
+domainName: https://localhost
+loginPageUrl: login/
+
+webDriverPath: C:\selenium\2.35\chromedriver.exe
+
+webDriverArg: chrome
